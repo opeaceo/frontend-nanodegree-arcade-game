@@ -108,4 +108,8 @@
         onReady: onReady,
         isReady: isReady
     };
+    
+    // window.addEventListener('load', function(event) {
+    //     initCanvas();
+    // });
 })();
